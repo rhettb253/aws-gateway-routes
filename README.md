@@ -2,7 +2,7 @@
 
 Create a serverless REST API.
 
-## UML 
+## UML
 
 ![API Gateway](gatewayUML.png)
 
